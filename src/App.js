@@ -1,3 +1,4 @@
+/*eslint-disable */
 import logo from './logo.svg';
 import './App.css';
 import { useState } from 'react';
@@ -11,10 +12,11 @@ function App() {
   return (
     <div className="App">
       <div className="black-nav">
-        <h4>Jiuk Choi Portfolio</h4>
+        <h4>Jiuk's React Blog</h4>
       </div>
       <div className="list">
         <h4>{write[0]}</h4>
+        <i class="fa-solid fa-thumbs-up"></i>
         <p>2월17일 발행</p>
       </div>
       <div className="list">

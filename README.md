@@ -1,5 +1,5 @@
-# A Full Stack portfolio website
+#Jiuk Choi's portfolio website
 
-A simple blog project using React
+A full stack portfolio website source code which demonstrate several key projects.
 
-All created by Jiuk Choi
+All written by Jiuk Choi.

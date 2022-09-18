@@ -1,5 +1,3 @@
-# Jiuk Choi's portfolio website
+# Jiuk Choi Web3 Portfolio
 
-A full stack portfolio website which demonstrate several key projects.
-
-All written by Jiuk Choi.
+A web3 portfolio website. It will be updated constantly.
